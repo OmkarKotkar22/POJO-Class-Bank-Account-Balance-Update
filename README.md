@@ -1,6 +1,18 @@
-# 🏦 POJO Example: Bank Account Balance Update ✨
+# 🏦 Bank Account Balance Update ✨
 
-This repository demonstrates the fundamental Object-Oriented Programming (OOP) concept of using a **Plain Old Java Object (POJO)** to model a real-world entity and encapsulate its data. The example focuses on managing and updating a bank account balance.
+<p align="center">
+  This repository demonstrates the fundamental Object-Oriented Programming (OOP) concept of using a **Plain Old Java Object (POJO)** to model a real-world entity and encapsulate its data. The example focuses on managing and updating a bank account balance.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Concept-POJO%20%26%20Encapsulation-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Console%20Demo-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/repo%20size-5KB-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/last%20commit-20/11/2025-FF69B4?style=for-the-badge" />
+</p>
 
 ---
 
@@ -32,19 +44,19 @@ The core logic of the program is split into two main files within the `src/Bank_
 
 #### Running the Code ▶️
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [Your Repository URL]
-    ```
-2.  **Navigate to the source directory:**
-    ```bash
-    cd POJO-Class-Bank-Account-Balance-Update/src/Bank_Balance_Update
-    ```
-3.  **Compile the Java files:**
-    ```bash
-    javac Bank_Account.java Bank_Balance_Update.java
-    ```
-4.  **Execute the main class:**
-    ```bash
-    java Bank_Balance_Update
-    ```
+1.  **Clone the Repository:**
+    ```bash
+    git clone [Your Repository URL]
+    ```
+2.  **Navigate to the source directory:**
+    ```bash
+    cd POJO-Class-Bank-Account-Balance-Update/src/Bank_Balance_Update
+    ```
+3.  **Compile the Java files:**
+    ```bash
+    javac Bank_Account.java Bank_Balance_Update.java
+    ```
+4.  **Execute the main class:**
+    ```bash
+    java Bank_Balance_Update
+    ```
